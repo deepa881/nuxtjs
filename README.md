@@ -1,0 +1,2 @@
+# nuxtjs
+Sample project
